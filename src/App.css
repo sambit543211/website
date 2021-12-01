@@ -1,3 +1,10 @@
+ 
+ @font-face {
+   
+   src: url(C:\Users\Sambit\web-site\src\fonts\OR4_Nilachala.TTF) format('truetype');
+   font-family: yo;
+ }
+
  *{
   box-sizing: border-box;
   margin:0;
@@ -6,5 +13,6 @@
   /* font-family: 'Baloo Bhaina 2', cursive;
   font-family: 'Baloo Bhaina 2', cursive; */
   /* font-family: ('Encode Sans Expanded', sans-serif); */
+  font-family: yo;
 
 } 
