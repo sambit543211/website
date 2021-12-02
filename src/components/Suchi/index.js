@@ -10,10 +10,10 @@ const Suchi = () => {
                 <SuchiList to="/writing">1. ଅନେକ ସ୍ମିତ ହସ -- ମନୋଜ ଦାସ  </SuchiList>
             </SuchiP>
             <SuchiP>
-                <SuchiList>Link2</SuchiList>
+                <SuchiList to="/writing2">2. ଯିଏ ଅଗ୍ନିରୁ ଜନ୍ମ ହୁଏ -- ପ୍ରତୀ ରାୟ </SuchiList>
             </SuchiP>
             <SuchiP>
-                <SuchiList>Link3</SuchiList>
+                <SuchiList to="/writing3">3. ରେବତୀ -- ଫକିର ମୋହନ ସେନାପତି</SuchiList>
             </SuchiP>
             
         </SuchiContainer>
