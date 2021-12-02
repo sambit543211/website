@@ -53,6 +53,14 @@ export const SuchiList= styled(Link)`
     line-height: 1.1;
     font-weight: 200;
     text-decoration: none;
+
+    &:hover{
+        
+        transition: all 0.2s ease-in-out;
+        cursor: pointer;
+        text-decoration: none;
+
+    }
     
 
 `;

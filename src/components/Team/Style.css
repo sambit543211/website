@@ -59,13 +59,13 @@
 .team-boxed .item .title {
     text-transform: uppercase;
     font-weight: bold;
-    color: #d0d0d0;
+    color:rgb(76, 161, 76);
     letter-spacing: 2px;
-    font-size: 13px
+    font-size: 13pxs
 }
 
 .team-boxed .item .description {
-    font-size: 15px
+    font-size: 20px
 }
 
 .team-boxed .item img {

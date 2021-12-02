@@ -47,8 +47,8 @@ const Footer = () => {
                 </FooterLinksContainer>
                 <SocialMedia>
                     <SocialMediaWrap>
-                        <SocialLogo to="/" onClick={toggleHome}>
-                        ମାଟିର ସ୍ୱର
+                        <SocialLogo to="/team" onClick={toggleHome}>
+                         ଉଦ୍ୟମ 
                         </SocialLogo>
                         <WebsiteRights>ମାଟିର ସ୍ୱର © {new Date().getFullYear()} ସମସ୍ତ ଅଧିକାର ସଂରକ୍ଷିତ </WebsiteRights>
                         <SocialIcons>
@@ -58,9 +58,9 @@ const Footer = () => {
                             <SocialIconLink href="/" target="_blank" aria-label="Instagram">
                                 <FaInstagram />
                             </SocialIconLink>
-                            <SocialIconLink href="/" target="_blank" aria-label="Youtube">
+                            {/* <SocialIconLink href="/" target="_blank" aria-label="Youtube">
                                 <FaYoutube />
-                            </SocialIconLink>
+                            </SocialIconLink> */}
                             <SocialIconLink href="//www.twitter.com" target="_blank" aria-label="Twitter">
                                 <FaTwitter />
                             </SocialIconLink>

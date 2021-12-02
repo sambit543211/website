@@ -44,7 +44,7 @@ export const homeObjThree ={
     topLine: 'ଆମ ସହ',
     headline: 'ଯୋଗାଯୋଗ',
     description: 'ଯଦି ଆପଣ ଚାହାଁନ୍ତି ଯେ ଆପଣଙ୍କର ପ୍ରବନ୍ଧଗୁଡିକ ଏଠାରେ ପ୍ରକାଶିତ ହେଉ କିମ୍ବା କୌଣସି ପ୍ରଶ୍ନ ପାଇଁ ଆମକୁ ଏକ ଇ-ମେଲ୍ ଲେଖନ୍ତୁ ଏକ abc@gmail.com !',
-    buttonLabel: 'ଧନ୍ୟବାଦ.',
+    buttonLabel: 'ଧନ୍ୟବାଦ',
     imgStart: false,
     img: require('../../images/svg-3.svg').default,
     alt: 'yo',

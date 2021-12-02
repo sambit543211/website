@@ -84,7 +84,7 @@ export const SocialMediaWrap = styled.div`
 `;
 
 export const SocialLogo= styled(Link)`
-    color: #fff;
+    color: white;
     justify-self: start;
     cursor: pointer;
     text-decoration: none;
@@ -93,6 +93,19 @@ export const SocialLogo= styled(Link)`
     align-items: center;
     margin-bottom: 16px;
     font-weight: bold;
+    background: #01bf71;
+    border-radius: 7px;
+    padding: 7px;
+   
+
+    &:hover{
+        transform: scale(1.1);
+        transition: all 0.2s ease-in-out;
+        cursor: pointer;
+        text-decoration: none;
+        color: white;
+
+    }
 `;
 export const WebsiteRights=styled.small`
     color: #fff;

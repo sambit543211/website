@@ -1,4 +1,6 @@
 import styled from 'styled-components'
+import {Link} from 'react-router-dom'
+
 export const ServicesContainer = styled.div`
     height: 800px;
     display: flex;
@@ -37,7 +39,7 @@ export const ServicesWrapper = styled.div`
 
 `;
 
-export const ServicesCard= styled.div`
+export const ServicesCard= styled(Link)`
     background: #fff;
     display: flex;
     flex-direction: column;
@@ -48,11 +50,14 @@ export const ServicesCard= styled.div`
     padding: 30px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.2);
     transition: all 0.2s ease-in-out;
+    text-decoration: none;
+    color: black;
 
     &:hover{
-        transform: scale(1.02);
+        transform: scale(1.1);
         transition: all 0.2s ease-in-out;
         cursor: pointer;
+        text-decoration: none;
 
     }
 `;
@@ -75,11 +80,12 @@ export const ServicesH1 = styled.h1`
 `;
 
 export const ServicesH2= styled.h2`
-    font-size: 1rem;
+    font-size: 1.2rem;
     margin-bottom: 10px;
+    font-weight: bold;
 `;
 export const ServicesP= styled.p`
-    font-size: 1rem;
+    font-size: 1.1 rem;
     text-align: center;
 
 `;
