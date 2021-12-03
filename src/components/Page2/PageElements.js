@@ -166,7 +166,7 @@ export const Heads= styled.h1`
     text-align: justify;
     text-justify: auto;
     margin-bottom: 24px;
-    font-size: 32px;
+    font-size: 30px;
     line-height: 1.1;
     font-weight: 800;
 `;
