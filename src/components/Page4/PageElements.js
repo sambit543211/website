@@ -6,9 +6,15 @@ export const ContentContainer= styled.div`
     justify-content: center;
     align-items: top;
     padding: 0 30px;
-    Height: 1800px;
+    Height: 2100px;
     position: relative;
     margin-top: -80px;
+
+    @media screen and (max-width: 480px){
+        
+        height: 3300px;
+
+    }
     
    
 
@@ -80,6 +86,7 @@ export const ContentH1= styled.p`
     word-spacing:-2px;
     width: 44%;
     float: left;
+    white-space: pre-wrap;
    
   
 
@@ -102,17 +109,21 @@ export const ContentH1= styled.p`
     }
     @media screen and (max-width: 480px){
         
-        font-size: 20px;
+        font-size: 19px;
         margin-left: 1px;
         margin-right: 1px;
-        text-align: justify;
+        text-align: left;
         text-justify: distribute;
-        word-spacing:-2px;
+        word-spacing:-1px;
         display: inline-block;
         width: 100%;
+        line-height: calc(1ex / 0.33);      
 
     }
 `;
+
+
+
 
 export const ContentH2= styled.p`
     color:#fff; 
@@ -132,8 +143,6 @@ export const ContentH2= styled.p`
     float: right;
     
 
-
-
     @media screen and (max-width: 768px){
         font-size: 22px;
         margin-left: 1px;
@@ -143,13 +152,14 @@ export const ContentH2= styled.p`
     }
     @media screen and (max-width: 480px){
         
-        font-size: 20px;
+        font-size: 19px;
         margin-left: 1px;
         margin-right: 1px;
-        text-align: justify;
+        text-align: left;
         text-justify: distribute; 
-        word-spacing:-2px;
+        word-spacing:-1px;
         width: 100%;
+        line-height: calc(1ex / 0.33);
     
 
     }
