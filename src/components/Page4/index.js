@@ -1,5 +1,5 @@
 import React from 'react'
-import { ContentContainer, ContentBox, ContentH1, Img, ImgWrap, Heads, About, AboutP, ContentH2, Row, ContentH11 } from './PageElements';
+import { ContentContainer, ContentBox, ContentH1, Img, ImgWrap, Heads, About, AboutP, ContentH2, Row } from './PageElements';
 
 
 
