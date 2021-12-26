@@ -7,13 +7,13 @@ const Suchi = () => {
            
             <SuchiHeading>ସୂଚକାଙ୍କ</SuchiHeading>
             <SuchiP>
-                <SuchiList to="/writing">1. ଅନେକ ସ୍ମିତ ହସ -- ମନୋଜ ଦାସ  </SuchiList>
+                <SuchiList to="/writing">1. ଆମ ସୌରଜଗତର ଅଜ୍ଞାତ ପ୍ରତିବେଶୀ -- ମନୋଜ ଦାସ  </SuchiList>
             </SuchiP>
             <SuchiP>
-                <SuchiList to="/writing2">2. ଯିଏ ଅଗ୍ନିରୁ ଜନ୍ମ ହୁଏ -- ପ୍ରତୀ ରାୟ </SuchiList>
+                <SuchiList to="/writing2">2. ଏକ ଦାର୍ଶନିକ ହାତୀକଥା -- ହୃଷୀକେଶ ପଣ୍ଡା </SuchiList>
             </SuchiP>
             <SuchiP>
-                <SuchiList to="/writing3">3. ରେବତୀ -- ଫକିର ମୋହନ ସେନାପତି</SuchiList>
+                <SuchiList to="/writing3">3. ସଂକ୍ଷେପରେ କାଉଲ୍ -- ଗୋବିନ୍ଦ ଦାସ</SuchiList>
             </SuchiP>
             
         </SuchiContainer>

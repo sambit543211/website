@@ -9,7 +9,7 @@ const Content = () => {
                 <ContentBox>
                     <Heads> ଆମ ସୌରଜଗତର ଅଜ୍ଞାତ ପ୍ରତିବେଶୀ </Heads>
                     <ImgWrap>
-                        <Img src={require('../../images/fakir.jpg').default}/>
+                        <Img src={require('../../images/manoj-das.jpg').default}/>
                     </ImgWrap>
                     <About>
                     ଲେଖକଙ୍କ ବିଷୟରେ 

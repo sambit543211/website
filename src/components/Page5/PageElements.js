@@ -6,13 +6,13 @@ export const ContentContainer= styled.div`
     justify-content: center;
     align-items: top;
     padding: 0 30px;
-    Height: 2050px;
+    Height: 2300px;
     position: relative;
     margin-top: -80px;
 
     @media screen and (max-width: 480px){
         
-        height: 3300px;
+        height: 3500px;
 
     }
     
@@ -200,6 +200,14 @@ export const Heads= styled.h1`
     font-size: 32px;
     line-height: 1.1;
     font-weight: 800;
+
+    @media screen and (max-width: 480px){
+        
+        font-size: 26px;
+        
+
+    }
+
 `;
 
 export const About= styled.p`

@@ -1,7 +1,7 @@
 import React, {useState} from 'react' ;
 import Navbar from '../components/NavbarB';
 import Sidebar from '../components/SidebarB';
-import Content from '../components/Page2';
+import Content from '../components/Page5';
 import ScrollToTop from '../components/ScrollToTop';
 import Footer from '../components/Footer';
 
