@@ -1,6 +1,7 @@
 {
   "name": "web-site",
   "version": "0.1.0",
+  "homepage": "http://matiraswara.com",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.5.0",
