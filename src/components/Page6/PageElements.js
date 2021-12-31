@@ -6,13 +6,13 @@ export const ContentContainer= styled.div`
     justify-content: center;
     align-items: top;
     padding: 0 30px;
-    Height: 2100px;
+    Height: 2000px;
     position: relative;
     margin-top: -80px;
 
     @media screen and (max-width: 480px){
         
-        height: 3200px;
+        height: 3050px;
 
     }
     
@@ -72,7 +72,7 @@ export const Row=styled.div`
 
 export const ContentH1= styled.p`
     color:#fff; 
-    font-size: 25px;
+    font-size: 22px;
     text-align: center;
     margin-top: 40px;
     margin-left: 50px;
@@ -109,7 +109,7 @@ export const ContentH1= styled.p`
     }
     @media screen and (max-width: 480px){
         
-        font-size: 19px;
+        font-size: 20px;
         margin-left: 1px;
         margin-right: 1px;
         text-align: left;
@@ -127,7 +127,7 @@ export const ContentH1= styled.p`
 
 export const ContentH2= styled.p`
     color:#fff; 
-    font-size: 25px;
+    font-size: 22px;
     text-align: center;
     margin-top: 40px;
     margin-left: 5px;
@@ -152,7 +152,7 @@ export const ContentH2= styled.p`
     }
     @media screen and (max-width: 480px){
         
-        font-size: 19px;
+        font-size: 20px;
         margin-left: 1px;
         margin-right: 1px;
         text-align: left;

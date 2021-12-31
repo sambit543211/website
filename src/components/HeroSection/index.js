@@ -18,7 +18,7 @@ const HeroSection = () => {
             <HeroContent>
                 <HeroH1>ଜୟ ଜଗନ୍ନାଥ</HeroH1>
                 <HeroP>
-                ଆମେ ଆଶା କରୁଛୁ ଆପଣ ବହୁତ ଭଲ ଅଛନ୍ତି ।
+                ଆମେ ଆଶା କରୁଛୁ ଆପଣ ବହୁତ ଭଲରେ ଅଛନ୍ତି ।
                 </HeroP>
                 <HeroBtnWrapper>
                     <Button to="about" onMouseEnter={onHover} onMouseLeave={onHover} primary='true' dark='true'

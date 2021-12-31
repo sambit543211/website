@@ -94,5 +94,8 @@ export const ServicesH3= styled.h2`
 export const ServicesP= styled.p`
     font-size: 17px;
     text-align: center;
+    color: green;
+    font-weight: bold;
+
 
 `;
