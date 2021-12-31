@@ -50,7 +50,7 @@ const Footer = () => {
                         <SocialLogo to="/team" onClick={toggleHome}>
                          ଉଦ୍ୟମ 
                         </SocialLogo>
-                        <WebsiteRights>ମାଟିର ସ୍ୱର © {new Date().getFullYear()} ସମସ୍ତ ଅଧିକାର ସଂରକ୍ଷିତ </WebsiteRights>
+                        <WebsiteRights>ମାଟିର ସ୍ୱର © ୨୦୨୨, ସମସ୍ତ ଅଧିକାର ସଂରକ୍ଷିତ </WebsiteRights>
                         <SocialIcons>
                             <SocialIconLink href="/" target="_blank" aria-label="Facebook">
                                 <FaFacebook />

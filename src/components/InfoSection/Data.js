@@ -43,7 +43,7 @@ export const homeObjThree ={
     lightTextDesc: false,
     topLine: 'ଆମ ସହ',
     headline: 'ଯୋଗାଯୋଗ',
-    description: 'ଯଦି ଆପଣ ଚାହାଁନ୍ତି ଯେ ଆପଣଙ୍କର ଲେଖା ଏଠାରେ ପ୍ରକାଶିତ ହେଉ କିମ୍ବା କୌଣସି ପ୍ରଶ୍ନ ପାଇଁ ଆମକୁ ଏକ ଇ-ମେଲ୍ ଲେଖନ୍ତୁ ଏକ matiraswaraodia@gmail.com !',
+    description: 'ଯଦି ଆପଣ ଚାହାଁନ୍ତି ଯେ ଆପଣଙ୍କର ଲେଖା ଏଠାରେ ପ୍ରକାଶିତ ହେଉ କିମ୍ବା କୌଣସି ପ୍ରଶ୍ନ ପାଇଁ ଆମକୁ ଏକ ଇ-ମେଲ୍ ଲେଖନ୍ତୁ ~~ matiraswaraodia@gmail.com !',
     buttonLabel: 'ଧନ୍ୟବାଦ',
     imgStart: false,
     img: require('../../images/svg-3.svg').default,
