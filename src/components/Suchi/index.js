@@ -15,6 +15,9 @@ const Suchi = () => {
             <SuchiP>
                 <SuchiList to="/writing3">୩. ସଂକ୍ଷେପରେ କାଉଲ୍ -- ଗୋବିନ୍ଦ ଦାସ</SuchiList>
             </SuchiP>
+            <SuchiP>
+                <SuchiList to="/writing4">୩. ମାଡ଼ହାଣ୍ଡି କଥା -- ଗୋପାଳ ଚନ୍ଦ୍ର ପ୍ରହରାଜ</SuchiList>
+            </SuchiP>
             
         </SuchiContainer>
     );

@@ -33,7 +33,7 @@ export const homeObjTwo ={
     primary: false,
     darkText: true.valueOf,
     lin: "link",
-    to:'/signin'
+    to:'/suchi'
 };
 
 export const homeObjThree ={

@@ -52,19 +52,19 @@ const Footer = () => {
                         </SocialLogo>
                         <WebsiteRights>ମାଟିର ସ୍ୱର © ୨୦୨୨, ସମସ୍ତ ଅଧିକାର ସଂରକ୍ଷିତ </WebsiteRights>
                         <SocialIcons>
-                            <SocialIconLink href="/" target="_blank" aria-label="Facebook">
+                            <SocialIconLink href="https://www.facebook.com/%E0%AC%AE%E0%AC%BE%E0%AC%9F%E0%AC%BF%E0%AC%B0-%E0%AC%B8%E0%AD%8D%E0%AD%B1%E0%AC%B0-110450721511349" target="_blank" aria-label="Facebook">
                                 <FaFacebook />
                             </SocialIconLink>
-                            <SocialIconLink href="/" target="_blank" aria-label="Instagram">
+                            <SocialIconLink href="https://www.instagram.com/matiraswaraodia/" target="_blank" aria-label="Instagram">
                                 <FaInstagram />
                             </SocialIconLink>
                             {/* <SocialIconLink href="/" target="_blank" aria-label="Youtube">
                                 <FaYoutube />
                             </SocialIconLink> */}
-                            <SocialIconLink href="//www.twitter.com" target="_blank" aria-label="Twitter">
+                            <SocialIconLink href="https://twitter.com/MatiraSwara?t=33XiYiVxQYnFonATJzn1bg&s=09" target="_blank" aria-label="Twitter">
                                 <FaTwitter />
                             </SocialIconLink>
-                            <SocialIconLink href="/" target="_blank" aria-label="LinkedIn">
+                            <SocialIconLink href="https://www.linkedin.com/in/c-s-sambit-10212433/" target="_blank" aria-label="LinkedIn">
                                 <FaLinkedin />
                             </SocialIconLink>
                         </SocialIcons>

@@ -1,6 +1,6 @@
 import React from 'react'
 import Icon1 from '../../images/manoj-das.jpg'
-import Icon2 from '../../images/Hrusikesh-Panda.jpg'
+import Icon2 from '../../images/Gopala.png'
 import Icon3 from '../../images/Gobinda_Chandra_Das.jpg'
 import { ServicesContainer,ServicesH1,ServicesWrapper, ServicesCard, ServicesIcon, ServicesH2,ServicesH3, ServicesP } from './ServiceElements'
 const Services = () => {
@@ -15,12 +15,12 @@ const Services = () => {
                     
                     <ServicesP> ମନୋଜ ଦାସ </ServicesP>
                 </ServicesCard>
-                <ServicesCard  to="/writing2">
+                <ServicesCard  to="/writing4">
                     <ServicesIcon src={Icon2}/>
                     <ServicesH2></ServicesH2>
-                    <ServicesH2>ଏକ ଦାର୍ଶନିକ ହାତୀକଥା <br/> </ServicesH2>
+                    <ServicesH2>ମାଡ଼ହାଣ୍ଡି କଥା<br/> </ServicesH2>
                     <ServicesH2></ServicesH2>
-                    <ServicesP> ହୃଷୀକେଶ ପଣ୍ଡା </ServicesP>
+                    <ServicesP>ଗୋପାଳ ଚନ୍ଦ୍ର ପ୍ରହରାଜ</ServicesP>
                     <ServicesH2></ServicesH2>
                 </ServicesCard>
                 <ServicesCard  to="/writing3">
