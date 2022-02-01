@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const ContentContainer= styled.div`
-    background: #0c0c0c;
+    background: #28363f;
     display: flex;
     justify-content: center;
     align-items: top;
@@ -71,7 +71,7 @@ export const Row=styled.div`
 `;
 
 export const ContentH1= styled.p`
-    color:#fff; 
+    color:#f6f6f8;
     font-size: 22px;
     text-align: center;
     margin-top: 40px;
@@ -126,7 +126,7 @@ export const ContentH1= styled.p`
 
 
 export const ContentH2= styled.p`
-    color:#fff; 
+    color: #f6f6f8; 
     font-size: 22px;
     text-align: center;
     margin-top: 40px;
